@@ -7,3 +7,4 @@ notebooks
 KEY*.ipynb
 lab_sessions/lab3/*/
 .claude/
+lab_sessions/lab4/kaggle/
