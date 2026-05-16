@@ -1,1 +1,21 @@
 theme: jekyll-theme-cayman
+packages:
+  - numpy
+  - pandas
+  - scikit-learn
+  - nltk
+  - spacy
+  - gensim
+  - matplotlib
+  - seaborn
+  - wordcloud
+  - pyldavis
+  - simpletransformers
+  - transformers
+  - flair
+  - sklearn-crfsuite
+  - eli5
+  - seqeval
+  - wikipedia
+  - requests
+  - torch
